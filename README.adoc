@@ -1,0 +1,41 @@
+= Spring Boot Web
+
+Projeto desenvolvido e disponibilizado para fins de consultas e estudos.
+
+---
+
+=== Tecnologias
+----
+* Java
+* Maven
+* Spring Boot
+* JPA Hibernate
+* MySQL
+----
+
+=== Banco de dados
+```sql
+-- Create
+create database listavip;
+```
+
+---
+
+=== Abordagem
+
+* *Criando nossa primeira aplicação com o Spring Boot*
+* *Inicio da migração e integração do Spring Boot com a JPA*
+    . Spring Boot Data JPA
+* *Produtividade com ajuda do Spring Devtools*
+* *Criando uma lib standalone com o Spring Boot*
+    . *Não disponível no projeto - lib de envio do e-mail.*
+* *Configurando nosso container e gerando nosso FatJar*
+
+---
+
+Inspirado no(s) curso(s):
+
+* *Spring Boot: Agilidade no desenvolvimento java com Spring*
+
+https://www.alura.com.br/[Alura | Cursos online de tecnologia]
+
