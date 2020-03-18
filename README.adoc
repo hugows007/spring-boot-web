@@ -1,4 +1,4 @@
-= Spring Boot Web
+= Spring Boot Web - Básico
 
 Projeto desenvolvido e disponibilizado para fins de consultas e estudos.
 
